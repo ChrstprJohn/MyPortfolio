@@ -1,5 +1,5 @@
 import { dockApps } from '#constants';
-import useWindowStore from '#store/Window';
+import useWindowStore from '#store/window';
 import { useGSAP } from '@gsap/react';
 import gsap from 'gsap';
 import React from 'react';
