@@ -10,7 +10,7 @@ const Navbar = () => {
                     src='/images/logo.svg'
                     alt='logo'
                 />
-                <p className='font-bold'>Picardo Portfolio</p>
+                <p className='font-bold'>MyPortfolio </p>
 
                 <ul>
                     {navLinks.map(({ id, name }) => (
