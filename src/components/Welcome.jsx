@@ -104,7 +104,7 @@ const Welcome = () => {
                 ref={titleRef}
                 className='mt-7'
             >
-                {renderText('portfolio', 'text-9xl font-georama', 400)}
+                {renderText('portfolio', 'text-9xl italic font-georama', 400)}
             </h1>
 
             <div className='small-screen'>
